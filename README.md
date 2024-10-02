@@ -17,10 +17,6 @@ Visit https://nyxbui.design/docs to view the documentation.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnyxb-ui%2ui)
 
-## Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/5e0f16842e515bdc858138f062dc3f2fbe329b96.svg 'Repobeats analytics image')
-
 ## License
 
 Licensed under the [MIT license](https://github.com/nyxb-ui/ui/blob/main/LICENSE.md).
