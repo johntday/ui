@@ -1,5 +1,3 @@
-<img alt="Nyxb UI - Fusion UI library Shadcn/ui + MagicUI" src="https://raw.githubusercontent.com/nyxb/nyxb/main/images/nyxb.jpg" width="100%">
-<h3 align="center">Nyxb UI</h3>
 <p align="center">
     Fusion UI library Shadcn/ui + MagicUI
 </p>
@@ -15,20 +13,6 @@
 
 Visit https://nyxbui.design/docs to view the documentation.
 
-## Contributing
-
-Visit our [contributing guide](https://github.com/nyxb-ui/ui/blob/main/CONTRIBUTING.md) to learn how to contribute. It only takes ~5 minutes to add your own!
-
-## Let's talk
-
-<a href="https://nyxb.nexus/chat"><img alt="Book us" src="https://cal.com/book-with-cal-dark.svg" /></a>
-
-## Authors
-
-<a href="https://github.com/nyxb-ui/ui/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nyxb-ui/nyxb" />
-</a>
-
 ## Deploy
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnyxb-ui%2ui)
@@ -36,10 +20,6 @@ Visit our [contributing guide](https://github.com/nyxb-ui/ui/blob/main/CONTRIBUT
 ## Stats
 
 ![Alt](https://repobeats.axiom.co/api/embed/5e0f16842e515bdc858138f062dc3f2fbe329b96.svg 'Repobeats analytics image')
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=nyxb-ui/ui&type=Date)](https://star-history.com/#nyxb-ui/ui&Date)
 
 ## License
 
